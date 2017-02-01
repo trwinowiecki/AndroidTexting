@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Desktop Text</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sms">SmsActivity</string>
+    <string name="title_activity_web_sockets_login">Sign in</string>
+    <string name="local_service_started">Start</string>
+    <string name="local_service_stopped">Stopped</string>
+    <string name="local_service_label">DesktopText Service</string>
+    <string name="generate_rsa">Generate RSA Key Pair</string>
+</resources>
